@@ -14,6 +14,9 @@ The workflow includes a note with description of the user-controlled parameters.
 
 For Krita AI Diffusion users, a custom workflow version is also available, with a largely overlapping set of features. Visit the wiki pages to learn more about these workflows and view examples of hires refined images.
 
+![SILVIv2 test image - Before and After screenshot](https://github.com/user-attachments/assets/0c34ac93-e42c-4cb1-b12a-ebdcb64f8508)
+
+
 TO-DO
 
 As the title suggests, this workflow has been extensively tested for SDXL models only. It will work with SD 1.5 and Flux, but some additional tuning might be necessary, especially for Flux which lacks a good ControlNet Tile Resample model on par with xinsir’s.
