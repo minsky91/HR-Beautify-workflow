@@ -4,11 +4,9 @@
 
 HR Beautify (‘HR’ stands for Hires, or High resolution) is an advanced ComfyUI workflow to refine raw upscaled images. It doesn’t include the usual upscale with AI model component, concentrating instead on the best refinement of upscaled hires images possible, optionally beautifying them with a style transfer.
 
-The workflow includes two ControlNets, for the most powerful and flexible img2img guidance, and two IP Adapters, to enhance images with style transfer and composition or reference guidance. For extra refinement, the Power Lora Loader node is included, supporting a potentially unlimited number of detail or style LoRas.
+The workflow includes two ControlNets, for the most powerful and flexible img2img guidance, and two IP Adapters, to enhance images with style transfer and composition or reference guidance. For extra refinement, the Power Lora Loader node is included, supporting a potentially unlimited number of detail or style LoRas. Also included in the workflow are three post processing components: enhancing image’s HDR range, advanced image sharpening and color-matching.
 
 The tiling component that enables hires refining is the widely used Tiled Diffusion (TD), together with Tiled VAE Encode & Decode. TD is compatible with all ControlNet models and can assist in processing images of up to **24K** resolution, optionally adding creative detail in the output along the way. 
-
-Also included in the workflow are three post processing components: enhancing image’s HDR range, advanced image sharpening and color-matching.
 
 The workflow includes a note with description of the user-controlled parameters. Full description of the HR Beautify workflow and custom nodes it uses can be found on the github [wiki pages](https://github.com/minsky91/HR-Beautify-workflow/wiki/HR-Beautify-ComfyUI-workflow/).  
 
