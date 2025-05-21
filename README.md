@@ -10,7 +10,7 @@ The tiling component that enables hires refining is the widely used Tiled Diffus
 
 Also included in the workflow are three post processing components: enhancing image’s HDR range, advanced image sharpening and color-matching.
 
-The workflow includes a note with description of the user-controlled parameters. Full description of the HR Beautify workflow and custom nodes it uses can be found on the github [wiki pages](https://github.com/minsky91/HR-Beautify-workflow/wiki/HR-Beautify-ComfyUI-workflow)/ 
+The workflow includes a note with description of the user-controlled parameters. Full description of the HR Beautify workflow and custom nodes it uses can be found on the github [wiki pages](https://github.com/minsky91/HR-Beautify-workflow/wiki/HR-Beautify-ComfyUI-workflow/) 
 
 For Krita AI Diffusion users, a custom workflow version is also available, with a largely overlapping set of features. Visit the wiki pages to learn more about these workflows and view examples of hires refined images.
 
