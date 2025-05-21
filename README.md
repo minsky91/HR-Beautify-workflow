@@ -1,4 +1,4 @@
-HR Beautify ComfyUI workflow (SDXL): refine after upscale and go as high as 24K
+## HR Beautify ComfyUI workflow (SDXL): refine after upscale and go as high as 24K
 
 ![HR Beautify Comfy workflow screenshot May 2025](https://github.com/user-attachments/assets/ae10f6a6-fc89-4842-88e4-d3137ec0266d)
 
@@ -6,11 +6,11 @@ HR Beautify (‘HR’ stands for Hires, or High resolution) is an advanced Comfy
 
 The workflow includes two ControlNets, for the most powerful and flexible img2img guidance, and two IP Adapters, to enhance images with style transfer and composition or reference guidance. For extra refinement, the Power Lora Loader node is included, supporting a potentially unlimited number of detail or style LoRas.
 
-The tiling component that enables hires refining is the widely used Tiled Diffusion (TD), together with Tiled VAE Encode & Decode. TD is compatible with all ControlNet models and can assist in processing images of up to 24K resolution, optionally adding creative detail in the output along the way. 
+The tiling component that enables hires refining is the widely used Tiled Diffusion (TD), together with Tiled VAE Encode & Decode. TD is compatible with all ControlNet models and can assist in processing images of up to **24K** resolution, optionally adding creative detail in the output along the way. 
 
 Also included in the workflow are three post processing components: enhancing image’s HDR range, advanced image sharpening and color-matching.
 
-The workflow includes a note with description of the user-controlled parameters. Full description of the HR Beautify workflow and custom nodes it uses can be found on the github wiki pages (https://github.com/minsky91/HR-Beautify-workflow/wiki/HR-Beautify-ComfyUI-workflow)/ 
+The workflow includes a note with description of the user-controlled parameters. Full description of the HR Beautify workflow and custom nodes it uses can be found on the github [wiki pages](https://github.com/minsky91/HR-Beautify-workflow/wiki/HR-Beautify-ComfyUI-workflow)/ 
 
 For Krita AI Diffusion users, a custom workflow version is also available, with a largely overlapping set of features. Visit the wiki pages to learn more about these workflows and view examples of hires refined images.
 
