@@ -8,7 +8,7 @@ The workflow includes two ControlNets, for the most powerful and flexible img2im
 
 The tiling component that enables hires refining is the widely used Tiled Diffusion (TD), together with Tiled VAE Encode & Decode. TD is compatible with all ControlNet models and can assist in processing images of up to **24K** resolution, optionally adding creative detail in the output along the way. 
 
-The workflow includes a note with description of the user-controlled parameters. Full description of the HR Beautify workflow and custom nodes it uses can be found on the github [wiki pages](https://github.com/minsky91/HR-Beautify-workflow/wiki/HR-Beautify-ComfyUI-workflow/).  [**Download link**](https://github.com/minsky91/HR-Beautify-workflow/blob/main/workflows/HR%20Beautify%20v1.0%20(release).json)
+The workflow includes a note with description of the user-controlled parameters. Full description of the HR Beautify workflow and custom nodes it uses can be found on the github [wiki pages](https://github.com/minsky91/HR-Beautify-workflow/wiki/HR-Beautify-ComfyUI-workflow/).  (Note: the download zip includes all example files and is hefty, to get the workflow json, use this [**download link**](https://github.com/minsky91/HR-Beautify-workflow/blob/main/workflows/HR%20Beautify%20v1.0%20(release).json)
 
 For Krita AI Diffusion users, a custom workflow version is also available, with a largely overlapping set of features.  [**Download link**](https://github.com/minsky91/HR-Beautify-workflow/blob/main/workflows/Krita%20AI%20HR%20Beautify%20v1.0%20(release).json) Visit the wiki pages to learn more about these workflows and view examples of hires refined images.
 
