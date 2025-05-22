@@ -10,7 +10,7 @@ The tiling component that enables hires refining is the widely used Tiled Diffus
 
 The workflow includes a note with description of the user-controlled parameters. Full description of the HR Beautify workflow and custom nodes it uses can be found on the github [wiki pages](https://github.com/minsky91/HR-Beautify-workflow/wiki/HR-Beautify-ComfyUI-workflow/).  (Note: because of all the png example images the download zip contains, it's 89 MB large; to get the workflow json only, use this [**download link**](https://github.com/minsky91/HR-Beautify-workflow/blob/main/workflows/HR%20Beautify%20v1.0%20(release).json))
 
-For Krita AI Diffusion users, a custom workflow version is also available, with a largely overlapping set of features.  [**Download link**](https://github.com/minsky91/HR-Beautify-workflow/blob/main/workflows/Krita%20AI%20HR%20Beautify%20v1.0%20(release).json) Visit the wiki pages to learn more about these workflows and view examples of hires refined images.
+For Krita AI Diffusion users, a custom workflow version is also available, with a largely overlapping set of features.  ([**download link**](https://github.com/minsky91/HR-Beautify-workflow/blob/main/workflows/Krita%20AI%20HR%20Beautify%20v1.0%20(release).json)) Visit the wiki pages to learn more about these workflows and view examples of hires refined images.
 
 ![SILVIv2 test image - Before and After screenshot](https://github.com/user-attachments/assets/0c34ac93-e42c-4cb1-b12a-ebdcb64f8508)
 
