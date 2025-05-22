@@ -14,6 +14,13 @@ For Krita AI Diffusion users, a custom workflow version is also available, with 
 
 ![SILVIv2 test image - Before and After screenshot](https://github.com/user-attachments/assets/0c34ac93-e42c-4cb1-b12a-ebdcb64f8508)
 
+![The stage angel - Before and After screenshot](https://github.com/user-attachments/assets/81aa0eb2-5315-4c07-9875-7365eab4e34e)
+
+![The stage angel - detail fragment 1](https://github.com/user-attachments/assets/ebf3e972-0c2c-4be7-8751-6acfba5fb9b6)
+
+
+
+
 
 TO-DO
 
